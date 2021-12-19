@@ -1,0 +1,95 @@
+<meta>
+	<oop>true</oop>
+	<info author="SparroWMTA" version='1.0.2' name='ModLoader&Manager' type="script"/>
+
+	<script src = "settings.lua" type = "client" cache="false"/>
+	<script src = "client.lua" type = "client" cache="false"/>
+	<script src = "panel.lua" type = "client" cache="false"/>
+	<script src = "server.lua" type = "server"/>
+
+	<export function="getMods" type="client" />
+	
+	<!-- Low Poly Car Mod Pack Venom MTA Edition -->
+	
+	
+	<file src = "files/400.txd" download = "false" model = "400" isim="[LP]Land Rover"/>
+	<file src = "files/400.dff" download = "false" model = "400" isim="[LP]Land Rover"/>	
+
+	<file src = "files/533.txd" download = "false" model = "533" isim="[LP]10 Bentley"/>
+	<file src = "files/533.dff" download = "false" model = "533" isim="[LP]10 Bentley"/>	
+
+	<file src = "files/551.txd" download = "false" model = "551" isim="[LP]Mercedes"/>
+	<file src = "files/551.dff" download = "false" model = "551" isim="[LP]Mercedes"/>	
+
+	<file src = "files/585.txd" download = "false" model = "585" isim="[LP] Kia"/>
+	<file src = "files/585.dff" download = "false" model = "585" isim="[LP] Kia"/>	
+
+	<file src = "files/439.txd" download = "false" model = "439" isim="[LP] Toretto"/>
+	<file src = "files/439.dff" download = "false" model = "439" isim="[LP] Toretto"/>	
+	
+	<file src = "files/587.txd" download = "false" model = "587" isim="[LP] Euros"/>
+	<file src = "files/587.dff" download = "false" model = "587" isim="[LP] Euros"/>	
+
+	<file src = "files/517.txd" download = "false" model = "517" isim="[LP] LUX#2"/>
+	<file src = "files/517.dff" download = "false" model = "517" isim="[LP] LUX#2"/>		
+	
+	<file src = "files/445.txd" download = "false" model = "445" isim="[LP] LUX#3"/>
+	<file src = "files/445.dff" download = "false" model = "445" isim="[LP] LUX#3"/>
+
+	<file src = "files/426.txd" download = "false" model = "426" isim="[LP] Mercedes Eski Kasa"/>
+	<file src = "files/426.dff" download = "false" model = "426" isim="[LP] Mercedes Eski Kasa"/>		
+
+	<file src = "files/547.txd" download = "false" model = "547" isim="[LP] Tofaş"/>
+	<file src = "files/547.dff" download = "false" model = "547" isim="[LP] Tofaş"/>	
+
+	<file src = "files/579.txd" download = "false" model = "579" isim="[LP] Toyota"/>
+	<file src = "files/579.dff" download = "false" model = "579" isim="[LP] Toyota"/>	
+
+	<file src = "files/560.txd" download = "false" model = "560" isim="[LP] Mitsubishi"/>
+	<file src = "files/560.dff" download = "false" model = "560" isim="[LP] Mitsubishi"/>	
+	
+	<file src = "files/507.txd" download = "false" model = "507" isim="[LP] Mitsubishi"/>
+	<file src = "files/507.dff" download = "false" model = "507" isim="[LP] Mitsubishi"/>
+
+	<file src = "files/458.txd" download = "false" model = "458" isim="[D] Passat"/>
+	<file src = "files/458.dff" download = "false" model = "458" isim="[D] Passat"/>		
+	
+	<file src = "files/596.txd" download = "false" model = "596" isim="[L] Polis Aracı"/>
+	<file src = "files/596.dff" download = "false" model = "596" isim="[L] Polis Aracı"/>	
+
+	<file src = "files/599.txd" download = "false" model = "599" isim="[L] POH Aracı"/>
+	<file src = "files/599.dff" download = "false" model = "599" isim="[L] POH Aracı"/>		
+	
+	<file src = "files/529.txd" download = "false" model = "529" isim="[D] Audi A7"/>
+	<file src = "files/529.dff" download = "false" model = "529" isim="[D] Audi A7"/>	
+
+	<file src = "files/411.txd" download = "false" model = "411" isim="[D] BMW M4"/>
+	<file src = "files/411.dff" download = "false" model = "411" isim="[D] BMW M4"/>	
+
+	<file src = "files/598.txd" download = "false" model = "598" isim="[L] JANDARMA"/>
+	<file src = "files/598.dff" download = "false" model = "598" isim="[L] JANDARMA"/>	
+	
+	<file src = "files/601.txd" download = "false" model = "601" isim="[L] TOMA"/>
+	<file src = "files/601.dff" download = "false" model = "601" isim="[L] TOMA"/>	
+	
+	<file src = "files/404.txd" download = "false" model = "404" isim="[N] Porshce"/>
+	<file src = "files/404.dff" download = "false" model = "404" isim="[N] Porsche"/>	
+	
+	<file src = "files/459.txd" download = "false" model = "459" isim="[N] ARABA"/>
+	<file src = "files/459.dff" download = "false" model = "459" isim="[N] ARABA"/>	
+	
+	<file src = "files/482.txd" download = "false" model = "482" isim="[N] ARABA"/>
+	<file src = "files/482.dff" download = "false" model = "482" isim="[N] ARABA"/>	
+	
+	<file src = "files/440.txd" download = "false" model = "440" isim="[N] ARABA"/>
+	<file src = "files/440.dff" download = "false" model = "440" isim="[N] ARABA"/>	
+	
+	<file src = "files/516.txd" download = "false" model = "516" isim="[N] ARABA"/>
+	<file src = "files/516.dff" download = "false" model = "516" isim="[N] ARABA"/>	
+	
+	<file src = "files/561.txd" download = "false" model = "561" isim="[D] TOFAS"/>
+	<file src = "files/561.dff" download = "false" model = "561" isim="[D] TOFAS"/>		
+	
+	<file src = "files/527.txd" download = "false" model = "527" isim="[D] BMW I8"/>
+	<file src = "files/527.dff" download = "false" model = "527" isim="[D] BMW I8"/>			
+</meta>
